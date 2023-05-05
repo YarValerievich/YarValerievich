@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&size=46&duration=1500&pause=3500&color=1FBFF6FF&center=true&vCenter=true&width=1000&height=100&lines=My+name+is+Yaroslav+Valerievich;I+am+a+data+analyst" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&size=46&duration=1700&pause=3300&color=1FBFF6FF&center=true&vCenter=true&width=1000&height=100&lines=My+name+is+Yaroslav+Valerievich;I+am+a+data+analyst" alt="Typing SVG" /></a>
 
 
 <!--
@@ -46,9 +46,7 @@ Here are some ideas to get you started:
 
 Телеграм: t.me/yar_valeriich
 
-
-
-
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&duration=1500&pause=3500&color=1FBFF6&width=435&lines=%C2%A0" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&duration=1500&pause=3500&color=1FBFF6&width=435&lines=%C2%A0" alt="Typing SVG" /></a>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
