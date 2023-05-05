@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&size=28&pause=3000&color=2581A9&vCenter=true&repeat=false&width=1000&height=80&lines=Technology+stack" alt="Typing SVG" /></a>
+
+<img height="32" width="32" src="https://simpleicons.org/icons/1001tracklists.svg" /> <img height="32" width="32" src="https://simpleicons.org/icons/postgresql.svg" />
+
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
