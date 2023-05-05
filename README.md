@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&size=36&pause=3000&multiline=true&width=435&lines=My+name+is+Yaroslav+Valerievich.;+I+am+a+data+analyst." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&size=36&pause=3000&color=2581A9&center=true&vCenter=true&width=800&height=80&lines=My+name+is+Yaroslav+Valerievich;+I+am+a+data+analyst" alt="Typing SVG" /></a>
 
 <!--
 **YarValerievich/YarValerievich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
