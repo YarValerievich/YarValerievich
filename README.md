@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&size=36&duration=2000&pause=3000&color=336DCDEB&vCenter=true&width=1000&height=100&lines=Projects;%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B" alt="Typing SVG" /></a>
 
-В репозиториях можно ознакомиться с наиболее полными описаниями проектных работ.
+В [репозиториях](https://github.com/YarValerievich?tab=repositories) можно ознакомиться с наиболее полными описаниями проектных работ.
 **Название** | **Цель** | **Описание** | **Стек технологий** | **Результат** 
 --- | --- | --- | --- | ---
 Проект 5. [Анализ эффективности бизнеса](https://nbviewer.org/github/YarValerievich/Project5_business_performance_analysis/blob/main/business_performance_analysis.ipynb) | Необходимо разобраться в причинах убытков и помочь компании выйти в плюс. | На данный момент можно сделать вывод о неэффективности средствовложений в канал "TipTop". Его CAC практически в три раза выше, чем у следующего за ним канала "FaceBoom" (2.8 против 1.1), тогда как в последнем процент платящих клиентов практически в два раза выше (12.2% у "FaceBoom" против 9.6% у "TipTop"). | python, pandas, datetime, pyplot, когортный анализ, продуктовые метрики, юнит-экономика | Стоит предпочесть вложение доли бюджета на американском рынке в "YRabbit", "MediaTornado" и "RocketSuperAds". В Европе рекомендую выбирать "lambdaMediaAds" и "LeapBob".
