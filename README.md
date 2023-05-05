@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&size=50&duration=2000&pause=3000&color=2581A9&center=true&vCenter=true&width=1000&height=100&lines=My+name+is+Yaroslav+Valerievich;I+am+a+data+analyst" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&size=46&duration=2000&pause=3000&color=37C1FDFF&center=true&vCenter=true&width=1000&height=100&lines=My+name+is+Yaroslav+Valerievich;I+am+a+data+analyst" alt="Typing SVG" /></a>
 
 
 <!--
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&size=36&duration=2000&pause=3000&color=23799F&vCenter=true&width=1000&height=100&lines=Technology+stack;%D0%A1%D1%82%D0%B5%D0%BA+%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B9" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&size=36&duration=2000&pause=3000&color=30A7DCFF&vCenter=true&width=1000&height=100&lines=Technology+stack;%D0%A1%D1%82%D0%B5%D0%BA+%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B9" alt="Typing SVG" /></a>
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&size=36&duration=2000&pause=3000&color=23799F&vCenter=true&width=1000&height=100&lines=Projects;%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&size=36&duration=2000&pause=3000&color=30A7DCFF&vCenter=true&width=1000&height=100&lines=Projects;%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B" alt="Typing SVG" /></a>
 
 В репозиториях можно ознакомиться с моими проектными работами.
 **Название** | **Цель** | **Описание** | **Стек технологий** | **Результат** 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 Проект 2. [Исследование A/A/B-эксперимента и воронки событий.](https://nbviewer.org/github/YarValerievich/Project2_AAB-test_sales_funnel/blob/main/Project2_AAB-test_sales_funnel.ipynb) | На основе данных исходных узнать, как пользователи доходят до покупки, сколько пользователей доходит до покупки, а сколько — «застревает» на предыдущих шагах. | Перед анализом A/B-теста была проведена подготовка данных к анализу, включающая в себя переименование столбцов, проверка на пропуски и дубликаты, а также разделение столбца timestamp на date_time и date. Во время исследовательского анализа данных посчитано общее количество событий и пользователей в логе. | python, pandas, numpy, math, plotly, scipy, pyplot, A/A/B-тестирование, проверка статистических гипотез | Больше всего пользователей теряется при переходе с главного экрана на экран предложений, а именно 62%.
 Проект 1. [Приоритизация гипотез и анализ A/B теста для интернет-магазина.](https://nbviewer.org/github/YarValerievich/Project1_AB-test_hypothesis/blob/main/Project1_AB-test_hypothesis.ipynb) | Используя данные интернет-магазина приоритезировать гипотезы, произвести оценку результатов A/B-тестирования и принять решение. | Гипотезы приоритезированы по фреймворкам ICE и RICE. Проведен анализ результатов A/B-теста, построены графики кумулятивной выручки, среднего чека, конверсии по группам. Посчитана статистическая значимость различий конверсий и средних чеков по сырым и очищенным данным. | python, pandas, pyplot, numpy, scipy, A/B-тестирование, проверка статистических гипотез. | Принято решение остановить тест и зафиксировать победу группы B, так как в альтернативной гипотезе нет изменений в среднем чеке, но увеличилась конверсия на 15%.
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&size=36&duration=2000&pause=3000&color=23799F&vCenter=true&width=1000&height=100&lines=Contacts;%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&size=36&duration=2000&pause=3000&color=30A7DCFF&vCenter=true&width=1000&height=100&lines=Contacts;%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B" alt="Typing SVG" /></a>
 Телефон: +7 901 088-27-87
 
 Почта: 9lppa_0228@mail.ru
