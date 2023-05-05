@@ -45,3 +45,10 @@ Here are some ideas to get you started:
 Почта: 9lppa_0228@mail.ru
 
 Телеграм: t.me/yar_valeriich
+
+
+
+
+
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
