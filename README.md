@@ -44,8 +44,6 @@ Here are some ideas to get you started:
 
 Почта: 9lppa_0228@mail.ru
 
-Телеграм: t.me/yar_valeriich
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&duration=1500&pause=3500&color=1FBFF6&width=435&lines=%C2%A0" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&duration=1500&pause=3500&color=1FBFF6&width=435&lines=%C2%A0" alt="Typing SVG" /></a>
 
