@@ -25,10 +25,6 @@ Here are some ideas to get you started:
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&size=36&duration=2000&pause=3000&color=336DCDEB&vCenter=true&width=1000&height=100&lines=Projects;%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B" alt="Typing SVG" /></a>
 В [репозиториях](https://github.com/YarValerievich?tab=repositories) можно ознакомиться с наиболее полными описаниями проектных работ.
 **Название** | **Цель** | **Описание** | **Стек технологий** | **Результат** 
