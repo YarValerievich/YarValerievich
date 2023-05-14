@@ -39,8 +39,3 @@ Here are some ideas to get you started:
 Телефон: +7 901 088-27-87
 
 Почта: 9lppa_0228@mail.ru
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&duration=1500&pause=3500&color=1FBFF6&width=435&lines=%C2%A0" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&duration=1500&pause=3500&color=1FBFF6&width=435&lines=%C2%A0" alt="Typing SVG" /></a>
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
