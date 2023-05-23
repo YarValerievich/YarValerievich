@@ -1,6 +1,4 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&size=46&duration=1500&pause=3500&color=1FBFF6FF&center=true&vCenter=true&width=1000&height=100&lines=My+name+is+Yaroslav+Valerievich;I+am+a+data+analyst" alt="Typing SVG" /></a>
-
-
 <!--
 **YarValerievich/YarValerievich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,7 +23,6 @@ Here are some ideas to get you started:
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 -->
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&size=36&duration=2000&pause=3000&color=336DCDEB&vCenter=true&width=1000&height=100&lines=Projects;%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B" alt="Typing SVG" /></a>
 В [репозиториях](https://github.com/YarValerievich?tab=repositories) можно ознакомиться с наиболее полными описаниями проектных работ.
 **Название** | **Цель** | **Описание** | **Стек технологий** | **Результат** 
@@ -35,6 +32,7 @@ Here are some ideas to get you started:
 Проект 3. [Исследование рынка заведений общественного питания Москвы](https://nbviewer.org/github/YarValerievich/Project3_analysis_moscow_places/blob/main/Project3_analysis_moscow_places.ipynb) | Необходимо подготовить маркетинговое исследование рынка заведений общественного питания Москвы, найти интересные особенности и презентовать полученные результаты, которые в будущем помогут в выборе подходящего инвесторам места. | В ходе исследования были изучены данные, удалены выбросы средних чеков, превышающих 3750 рублей, определён район с наименьшей конкуренцией, а также построены хороплеты с медианами средних чеков. | python, pandas, seaborn, numpy, math, json, plotly, scipy, pyplot, folium, presentation | Стоит рассматривать открытие заведений с минимальной конкуренцией, например булочные. Самые большие средние чеки у булочных, находящихся в центральном районе - 1237 рублей.
 Проект 2. [Исследование A/A/B-эксперимента и воронки событий.](https://nbviewer.org/github/YarValerievich/Project2_AAB-test_sales_funnel/blob/main/Project2_AAB-test_sales_funnel.ipynb) | На основе данных исходных узнать, как пользователи доходят до покупки, сколько пользователей доходит до покупки, а сколько — «застревает» на предыдущих шагах. | Перед анализом A/B-теста была проведена подготовка данных к анализу, включающая в себя переименование столбцов, проверка на пропуски и дубликаты, а также разделение столбца timestamp на date_time и date. Во время исследовательского анализа данных посчитано общее количество событий и пользователей в логе. | python, pandas, numpy, math, plotly, scipy, pyplot, A/A/B-тестирование, проверка статистических гипотез | Больше всего пользователей теряется при переходе с главного экрана на экран предложений, а именно 62%.
 Проект 1. [Приоритизация гипотез и анализ A/B теста для интернет-магазина.](https://nbviewer.org/github/YarValerievich/Project1_AB-test_hypothesis/blob/main/Project1_AB-test_hypothesis.ipynb) | Используя данные интернет-магазина приоритезировать гипотезы, произвести оценку результатов A/B-тестирования и принять решение. | Гипотезы приоритезированы по фреймворкам ICE и RICE. Проведен анализ результатов A/B-теста, построены графики кумулятивной выручки, среднего чека, конверсии по группам. Посчитана статистическая значимость различий конверсий и средних чеков по сырым и очищенным данным. | python, pandas, pyplot, numpy, scipy, A/B-тестирование, проверка статистических гипотез. | Принято решение остановить тест и зафиксировать победу группы B, так как в альтернативной гипотезе нет изменений в среднем чеке, но увеличилась конверсия на 15%.
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&size=36&duration=2000&pause=3000&color=336DCDEB&vCenter=true&width=1000&height=100&lines=Contacts;%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B" alt="Typing SVG" /></a>
 Телефон: +7 901 088-27-87
