@@ -4,7 +4,7 @@
 
 ---
 
-## Избранный проект: Ambilight Pro (Embedded)
+## Ambilight WLED (Embedded)
 
 Разработал аппаратно-программный комплекс для динамической подсветки 85" ТВ. Главная инженерная задача заключалась в построении стабильного end-to-end пайплайна: от захвата видео с камеры до управления 340 зонами WS2812B через ESP32 с задержкой менее 50 мс.
 
@@ -17,7 +17,7 @@
 
 **Стек:** Python 3.11, OpenCV, FastAPI, MQTT, WLED, Raspberry Pi 5, ESP32, systemd.
 
-**[Исходный код, схемы подключения и документация](https://github.com/YarValerievich/ambilight-wled)**
+**[Исходный код и документация](https://github.com/YarValerievich/ambilight-wled)**
 
 ---
 
