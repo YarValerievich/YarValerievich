@@ -3,7 +3,6 @@
 </a>
 
 ---
----
 
 ## Ambilight WLED (Embedded)
 
@@ -20,7 +19,6 @@
 
 **[Исходный код и документация](https://github.com/YarValerievich/ambilight-wled)**
 
----
 ---
 
 ## Архив проектов (Data Analytics)
