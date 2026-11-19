@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1FBFF6&height=2&section=footer&width=100%"/>
 </p>
+
 ## Ambilight WLED (Embedded)
 
 Разработал аппаратно-программный комплекс для динамической подсветки 85" ТВ. Главная инженерная задача заключалась в построении стабильного end-to-end пайплайна: от захвата видео с камеры до управления 340 зонами WS2812B через ESP32 с задержкой менее 50 мс.
@@ -23,6 +24,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1FBFF6&height=2&section=footer&width=100%"/>
 </p>
+
 ## Архив проектов (Data Analytics)
 
 | Проект | Цель | Стек | Результат |
