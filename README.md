@@ -1,44 +1,40 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&size=46&duration=1500&pause=3500&color=1FBFF6FF&center=true&vCenter=true&width=1000&height=100&lines=My+name+is+Yaroslav+Valerievich;I+am+a+data+analyst" alt="Typing SVG" /></a>
-<!--
-**YarValerievich/YarValerievich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=1FBFF6&center=true&vCenter=true&width=800&lines=Embedded+Software+Engineer;Python+%7C+C%2FC%2B%2B+%7C+Hardware" alt="Typing SVG" />
+</a>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Избранный проект: Ambilight Pro (Embedded)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&size=36&duration=2000&pause=3000&color=336DCDEB&vCenter=true&width=1000&height=100&lines=Technology+stack;%D0%A1%D1%82%D0%B5%D0%BA+%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B9" alt="Typing SVG" /></a>
+Разработал аппаратно-программный комплекс для динамической подсветки 85" ТВ. Главная инженерная задача заключалась в построении стабильного end-to-end пайплайна: от захвата видео с камеры до управления 340 зонами WS2812B через ESP32 с задержкой менее 50 мс.
 
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
--->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&size=36&duration=2000&pause=3000&color=336DCDEB&vCenter=true&width=1000&height=100&lines=Projects;%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B" alt="Typing SVG" /></a>
-Перейдя по [следующей ссылке](https://public.tableau.com/app/profile/yarvalerievich) можно ознакомиться с выполненными дашбордами в <strong>Tableau Public</strong>.
+В процессе разработки столкнулся с рядом нетривиальных проблем, которые потребовали доработки архитектуры:
 
-В [репозиториях](https://github.com/YarValerievich?tab=repositories) можно ознакомиться с наиболее полными описаниями проектных работ.
-**Название** | **Цель** | **Описание** | **Стек технологий** | **Результат** 
---- | --- | --- | --- | ---
-Проект 5. [Анализ эффективности бизнеса](https://nbviewer.org/github/YarValerievich/Project5_business_performance_analysis/blob/main/business_performance_analysis.ipynb) | Необходимо разобраться в причинах убытков и помочь компании выйти в плюс. | На данный момент можно сделать вывод о неэффективности средствовложений в канал "TipTop". Его CAC практически в три раза выше, чем у следующего за ним канала "FaceBoom" (2.8 против 1.1), тогда как в последнем процент платящих клиентов практически в два раза выше (12.2% у "FaceBoom" против 9.6% у "TipTop"). | python, pandas, pyplot, когортный анализ, продуктовые метрики, юнит-экономика | Стоит предпочесть вложение доли бюджета на американском рынке в "YRabbit", "MediaTornado" и "RocketSuperAds". В Европе рекомендую выбирать "lambdaMediaAds" и "LeapBob".
-Проект 4. [Анализ рекламных источников](https://nbviewer.org/github/YarValerievich/Project4_advertising_sources_dashboard/blob/main/Project4_advertising_sources_dashboard.ipynb). [Анализ базы данных с помощью SQL](https://nbviewer.org/github/YarValerievich/Project4_advertising_sources_dashboard/blob/main/Project4_sql.ipynb) | Необходимо проанализировать поведения игроков в зависимости от источника перехода. | Проведена предобработка данных. Проанализировано поведение игроков в зависимости от источника перехода. Больше всего построек возводят пользователи, завершившие уровень постройкой орбитальной станции. Приоритет каналов для вложения средств в рекламу: youtube_channel_reklama, yandex_direct, instagram_new_adverts, facebook_ads. | python, pandas, seaborn, numpy, math, pyplot, презентация, дашборд, проверка статистических гипотез, SQL | Даны рекомендации по перераспределению ресурсов на рекламу.
-Проект 3. [Исследование рынка заведений общественного питания Москвы](https://nbviewer.org/github/YarValerievich/Project3_analysis_moscow_places/blob/main/Project3_analysis_moscow_places.ipynb) | Необходимо подготовить маркетинговое исследование рынка заведений общественного питания Москвы, найти интересные особенности и презентовать полученные результаты, которые в будущем помогут в выборе подходящего инвесторам места. | В ходе исследования были изучены данные, удалены выбросы средних чеков, превышающих 3750 рублей, определён район с наименьшей конкуренцией, а также построены хороплеты с медианами средних чеков. | python, pandas, seaborn, numpy, math, json, plotly, scipy, pyplot, folium, presentation | Стоит рассматривать открытие заведений с минимальной конкуренцией, например булочные. Самые большие средние чеки у булочных, находящихся в центральном районе - 1237 рублей.
-Проект 2. [Исследование A/A/B-эксперимента и воронки событий.](https://nbviewer.org/github/YarValerievich/Project2_AAB-test_sales_funnel/blob/main/Project2_AAB-test_sales_funnel.ipynb) | На основе данных исходных узнать, как пользователи доходят до покупки, сколько пользователей доходит до покупки, а сколько — «застревает» на предыдущих шагах. | Перед анализом A/B-теста была проведена подготовка данных к анализу, включающая в себя переименование столбцов, проверка на пропуски и дубликаты, а также разделение столбца timestamp на date_time и date. Во время исследовательского анализа данных посчитано общее количество событий и пользователей в логе. | python, pandas, numpy, math, plotly, scipy, pyplot, A/A/B-тестирование, проверка статистических гипотез | Больше всего пользователей теряется при переходе с главного экрана на экран предложений, а именно 62%.
-Проект 1. [Приоритизация гипотез и анализ A/B теста для интернет-магазина.](https://nbviewer.org/github/YarValerievich/Project1_AB-test_hypothesis/blob/main/Project1_AB-test_hypothesis.ipynb) | Используя данные интернет-магазина приоритезировать гипотезы, произвести оценку результатов A/B-тестирования и принять решение. | Гипотезы приоритезированы по фреймворкам ICE и RICE. Проведен анализ результатов A/B-теста, построены графики кумулятивной выручки, среднего чека, конверсии по группам. Посчитана статистическая значимость различий конверсий и средних чеков по сырым и очищенным данным. | python, pandas, pyplot, numpy, scipy, A/B-тестирование, проверка статистических гипотез. | Принято решение остановить тест и зафиксировать победу группы B, так как в альтернативной гипотезе нет изменений в среднем чеке, но увеличилась конверсия на 15%.
+* **Блокировки сетевого ввода-вывода.** Изначально при потере связи с ESP32 mDNS-резолвинг (`wled-tv.local`) блокировал основной поток на 5 секунд на каждом кадре. Переписал транспортный слой: перевел UDP-сокеты в неблокирующий режим и добавил принудительное разрешение IP-адреса только при инициализации. Это обеспечило честную drop-policy без фризов конвейера.
+* **Аппаратные артефакты на линии данных.** На тестовых стендах наблюдались сбои цветов и "мертвые" первые пиксели из-за несовпадения логики 3.3В (ESP32) и 5В (лента), а также наводок. Решил проблему внедрением согласователя уровней 74AHCT125 и токоограничивающего резистора 330 Ом непосредственно перед входом DI ленты.
+* **Конфликты окружения на ARM64.** Столкнулся с бинарной несовместимостью C-расширений OpenCV и свежего NumPy 2.x на Raspberry Pi 5. Оптимизировал процесс деплоя, разделив тяжелые системные зависимости (установка через `apt`) и изолированные Python-библиотеки в `venv`, что полностью исключило ошибки `binary incompatibility`.
+* **Деградация плавности при просадках FPS.** Стандартное сглаживание зависело от частоты кадров. Реализовал алгоритм Time-based EMA, где коэффициент сглаживания рассчитывается динамически на основе реального `dt` между кадрами, делая картинку математически инвариантной к лагам камеры.
 
+**Стек:** Python 3.11, OpenCV, FastAPI, MQTT, WLED, Raspberry Pi 5, ESP32, systemd.
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&size=36&duration=2000&pause=3000&color=336DCDEB&vCenter=true&width=1000&height=100&lines=Contacts;%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B" alt="Typing SVG" /></a>
-Телеграм: [t.me/yar_valeriich](https://t.me/yar_valeriich)
+**[Исходный код, схемы подключения и документация](https://github.com/YarValerievich/ambilight-wled)**
 
-Телефон: +7 901 088-27-87
+---
 
-Почта: 9lppa_0228@mail.ru
+## Архив проектов (Data Analytics)
+
+| Проект | Цель | Стек | Результат |
+| :--- | :--- | :--- | :--- |
+| **[Анализ эффективности бизнеса](https://nbviewer.org/github/YarValerievich/Project5_business_performance_analysis/blob/main/business_performance_analysis.ipynb)** | Выявить причины убытков, оптимизировать бюджет. | Python, Pandas, когортный анализ, юнит-экономика | Обосновано перераспределение бюджета: отказ от канала с CAC в 3 раза выше среднего. |
+| **[Анализ рекламных источников + SQL](https://nbviewer.org/github/YarValerievich/Project4_advertising_sources_dashboard/blob/main/Project4_advertising_sources_dashboard.ipynb)** | Оценить поведение пользователей по источникам трафика. | Python, Pandas, SciPy, SQL, проверка гипотез | Даны рекомендации по перераспределению ресурсов на самые конверсионные каналы. |
+| **[Исследование рынка общепита Москвы](https://nbviewer.org/github/YarValerievich/Project3_analysis_moscow_places/blob/main/Project3_analysis_moscow_places.ipynb)** | Найти локации с наименьшей конкуренцией для инвесторов. | Python, Pandas, Plotly, Folium, SciPy | Определены районы и ниши (булочные) с максимальным потенциалом и минимальной конкуренцией. |
+| **[A/A/B-тестирование и воронка](https://nbviewer.org/github/YarValerievich/Project2_AAB-test_sales_funnel/blob/main/Project2_AAB-test_sales_funnel.ipynb)** | Оценить путь пользователя и найти узкие места воронки. | Python, Pandas, Plotly, SciPy, A/B-тесты | Выявлена критическая точка оттока (62%) на этапе перехода к экрану предложений. |
+| **[Приоритизация гипотез и A/B тест](https://nbviewer.org/github/YarValerievich/Project1_AB-test_hypothesis/blob/main/Project1_AB-test_hypothesis.ipynb)** | Оценить результаты эксперимента интернет-магазина. | Python, Pandas, NumPy, SciPy, фреймворки ICE/RICE | Тест остановлен досрочно: зафиксирована победа группы B (рост конверсии на 15%). |
+
+---
+
+## Контакты
+
+- **Telegram:** [@yar_valeriich](https://t.me/yar_valeriich)
+- **Email:** [9lppa_0228@mail.ru](mailto:9lppa_0228@mail.ru)
+- **Телефон:** +7 (932) 712-71-74
