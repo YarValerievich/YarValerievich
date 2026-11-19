@@ -2,8 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=1FBFF6&center=true&vCenter=true&width=800&lines=Embedded+Software+Engineer;Python+%7C+C%2FC%2B%2B+%7C+Hardware" alt="Typing SVG" />
 </a>
 
-✦ ✦ ✦
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1FBFF6&height=2&section=footer&width=100%"/>
+</p>
 ## Ambilight WLED (Embedded)
 
 Разработал аппаратно-программный комплекс для динамической подсветки 85" ТВ. Главная инженерная задача заключалась в построении стабильного end-to-end пайплайна: от захвата видео с камеры до управления 340 зонами WS2812B через ESP32 с задержкой менее 50 мс.
@@ -19,8 +20,9 @@
 
 **[Исходный код и документация](https://github.com/YarValerievich/ambilight-wled)**
 
-• • •
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1FBFF6&height=2&section=footer&width=100%"/>
+</p>
 ## Архив проектов (Data Analytics)
 
 | Проект | Цель | Стек | Результат |
