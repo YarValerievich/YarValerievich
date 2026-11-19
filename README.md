@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=1FBFF6&center=true&vCenter=true&width=800&lines=Embedded+Software+Engineer;Python+%7C+C%2FC%2B%2B+%7C+Hardware" alt="Typing SVG" />
 </a>
 
----
 
 ## Ambilight WLED (Embedded)
 
