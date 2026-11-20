@@ -23,7 +23,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1FBFF6&height=2&section=footer&width=100%"/>
 </p>
 
-## [RobStride PWM-to-CAN Bridge](https://github.com/YarValerievich/robstride_pwm_bridge)
+## [RobStride PWM-to-CAN Bridge](https://github.com/YarValerievich/robstride-pwm-bridge)
 
 Разработал надежную прошивку моста на базе STM32F103C8 для трансляции сигналов RC-аппаратуры в команды управления сервоприводом RobStride 00 (QDD) по шине CAN. Основной фокус был сделан на детерминизме контура управления, отказоустойчивости и безопасной работе с ресурсами микроконтроллера.
 
