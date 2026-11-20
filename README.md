@@ -57,4 +57,4 @@
 
 - **Telegram:** [@yar_valeriich](https://t.me/yar_valeriich)
 - **Email:** [9lppa_0228@mail.ru](mailto:9lppa_0228@mail.ru)
-- **Телефон:** +7 (932) 712-71-74
+- **Телефон:** +7 (932) 559-30-05
